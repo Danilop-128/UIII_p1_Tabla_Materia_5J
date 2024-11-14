@@ -4,3 +4,9 @@ CRUD de la tabla Materia    Create-Crear  Read-Leer  Update-Actualizar  Delete-B
 
  guardar registro card form input
 - ![image](https://github.com/user-attachments/assets/2727e217-faa9-4da3-819e-0d03752255d5)
+
+  ## Fin de crud tabla materia
+  -![image](https://github.com/user-attachments/assets/f3ad22ec-c2f4-42d7-ba79-57b14e33b7d1)
+  ![image](https://github.com/user-attachments/assets/5a295c93-1b4a-40db-bbdd-4e52aadaf3a3)
+
+
